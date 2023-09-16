@@ -2,13 +2,13 @@
 [![Generic badge](https://img.shields.io/badge/made%20with-html-orange.svg)](https://shields.io/)
 
 <h2 align="center">
-    Trabalho Informatica para Web 1
+    desenvolvimento web 1
 </h2>
 
 <br>
 
 <h3 align="center">
-    <a href="">Feito com paciencia e ajuda! </a>
+    <a href="">Feito com ajuda muita ajuda! </a>
 </h3>
 
 <br>
@@ -44,4 +44,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-<h3 align="center">Desenvolvido por Guilherme Hermes</h3>
+<h3 align="center">Desenvolvido por Fabricio Souza Andrade</h3>
