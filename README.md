@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/feito%20por-Hermesz14-blue)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/feito%20por-fabriciosouza-blue)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/badge/made%20with-html-orange.svg)](https://shields.io/)
 
 <h2 align="center">
@@ -8,7 +8,7 @@
 <br>
 
 <h3 align="center">
-    <a href="">Feito com ajuda muita ajuda! </a>
+    <a href=""> bem feito! </a>
 </h3>
 
 <br>
@@ -33,7 +33,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/Hermesz14/Trabalho1
+    $ git clone https://github.com/nocreati/web1
 
 ```
 
