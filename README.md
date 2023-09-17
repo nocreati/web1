@@ -13,11 +13,6 @@
 
 <br>
 
-##  📑  Índice
-
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
----
 
 ## ✏️ Sobre
 
